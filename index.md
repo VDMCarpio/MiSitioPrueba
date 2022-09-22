@@ -2,8 +2,18 @@
 @def hasmath = true
 @def hascode = true
 
+# Titulo 1
 
-# Franklin syntax sandbox
+## Título 2
+
+### Título 3
+
+## Ecuaciones
+
+$x^2 = \sqrt{x}$
+
+
+<!--# Franklin syntax sandbox
 
 This page is meant as a sandbox for Franklin Syntax so that you can quickly practice or experience things.
 
@@ -31,4 +41,4 @@ Surely some people remember the ordering, but I always forget:
 
 $$ \varphi(\E[X]) \le \E[\varphi(X)] $$
 
-for $\varphi$ convex.
+for $\varphi$ convex.-->
